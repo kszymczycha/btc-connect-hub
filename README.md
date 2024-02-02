@@ -15,11 +15,6 @@ BTC ConnectHub is an innovative application that enables users to have a compreh
 - Easily access information about owned digital art pieces.
 - Track changes in value on the market.
 
-### 3. Connectivity with Other Digital Assets
-
-- Monitor various digital assets related to cryptocurrencies.
-- Includes tokens and other forms of digital assets.
-
 ## Getting Started
 
 To use BTC ConnectHub, follow these steps:
