@@ -1,6 +1,6 @@
 # BTC ConnectHub
 
-BTC ConnectHub is an innovative application that enables users to have a comprehensive view of their Bitcoin wallet assets and other digital assets, such as NFTs and other crypto-related resources. With this application, managing cryptocurrency investments becomes easier and more transparent.
+BTC ConnectHub is an innovative application that enables users to have a comprehensive view of their Bitcoin wallet assets and other digital assets, such as NFTs and other crypto-related resources.
 
 ## Features
 
@@ -13,7 +13,6 @@ BTC ConnectHub is an innovative application that enables users to have a compreh
 
 - Monitor and manage NFT collections.
 - Easily access information about owned digital art pieces.
-- Track changes in value on the market.
 
 ## Getting Started
 
